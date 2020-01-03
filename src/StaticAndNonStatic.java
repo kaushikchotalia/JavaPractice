@@ -21,7 +21,6 @@ public class StaticAndNonStatic {
         StaticAndNonStatic obj = new StaticAndNonStatic();
         //You need to have object to call this non-static method
         obj.funcn();
-
         //Static method called in another static method
         display();
     }
