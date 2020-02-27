@@ -1,7 +1,7 @@
 public class ReverseString {
     public static void main(String[] args)
     {
-    String s2 = "Hello World";
+    String s2 = "JavaWorld";
         System.out.println(Reverse(s2));
         /*//Reverse String thriugh StringBuffer
         StringBuffer sb = new StringBuffer("KC");

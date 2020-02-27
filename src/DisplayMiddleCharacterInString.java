@@ -1,7 +1,10 @@
+import org.jetbrains.annotations.NotNull;
+
 public class DisplayMiddleCharacterInString {
     public static void main(String[] args) {
-    findMiddleCharacter("Hello");
+    findMiddleCharacter("Hello1");
     }
+
     public static String findMiddleCharacter(String str)
     {
         int position;

@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class RightAngleTriangle {
     public static void main(String[] args) {
         int n = 10;
@@ -8,13 +6,10 @@ public class RightAngleTriangle {
         {
             for (int j = 1; j <= i; j++)
             {
-                System.out.println(j);
+                System.out.print(j);
             }
-
             System.out.println("");
-
         }
-
     }
 }
 
