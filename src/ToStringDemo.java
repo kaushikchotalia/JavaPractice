@@ -7,12 +7,12 @@ public class ToStringDemo {
     {
         this.rollno=rollno;
         this.city=city;
-        this.name=city;
+        this.name=name;
     }
 
     public static void main(String[] args) {
         ToStringDemo s1 = new ToStringDemo(1,"KC","Brampton");
-        s1.toString();
-        System.out.println(s1);
+        String s2 = s1.toString();
+        System.out.println(s2);
     }
 }

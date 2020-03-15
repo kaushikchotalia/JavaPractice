@@ -1,4 +1,4 @@
-import org.jetbrains.annotations.NotNull;
+
 
 public class DisplayMiddleCharacterInString {
     public static void main(String[] args) {
